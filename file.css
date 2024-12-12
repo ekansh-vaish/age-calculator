@@ -1,0 +1,36 @@
+*
+{
+margin: 0;
+padding: 0;
+font-family: cursive;
+height: fit-content;
+}
+
+.container
+{
+height: 300px;
+width: 400px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+border-style: solid;
+border-color: black;
+background-color: blanchedalmond;
+background-size: cover;
+margin: 200px;
+}
+
+
+.content
+{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 500px;
+border-style: double;
+border-color: black;
+width: 900px;
+margin: 400px;
+}
+
